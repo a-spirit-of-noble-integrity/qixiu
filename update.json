@@ -1,8 +1,8 @@
 {
-  "appVersion": "3.0",
-  "apkName": "qixiu-v3.0.apk",
-  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.0.apk",
+  "appVersion": "3.1",
+  "apkName": "qixiu-v3.1.apk",
+  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.1.apk",
   "contentPackUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/content-pack.json",
-  "contentVersion": 2,
-  "note": "v3.0：新增小白第一课 / 大师进阶 / 真车实操任务 3 个模块共 18 节课，小白到大佬分级学习；删掉了视频教程功能；下载新版本时显示下载进度。"
+  "contentVersion": 3,
+  "note": "v3.1：更新区只留“检查更新”一个按钮；考证题库扩到 330 道，分维修工（131 道）、低压电工（84 道）、新能源维修（85 道）三个证刷题，另有真题 30 道，题目带配图（复用现有零件图）；老题答案位置已打乱重排，防蒙题。"
 }
