@@ -1,8 +1,8 @@
 {
-  "appVersion": "3.1",
-  "apkName": "qixiu-v3.1.apk",
-  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.1.apk",
+  "appVersion": "3.2",
+  "apkName": "qixiu-v3.2.apk",
+  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.2.apk",
   "contentPackUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/content-pack.json",
-  "contentVersion": 3,
-  "note": "v3.1：更新区只留“检查更新”一个按钮；考证题库扩到 330 道，分维修工（131 道）、低压电工（84 道）、新能源维修（85 道）三个证刷题，另有真题 30 道，题目带配图（复用现有零件图）；老题答案位置已打乱重排，防蒙题。"
+  "contentVersion": 4,
+  "note": "v3.2：课程按统一基础/燃油车/纯电车/混动车四条线重组，每条线 L1新手-L4精通分级，首页每条线带进度和“学完能干什么”；新增纯电进阶和混动进阶 2 个模块共 12 节课，每节带图。"
 }
