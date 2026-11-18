@@ -1,8 +1,1 @@
-{
-  "appVersion": "3.2",
-  "apkName": "qixiu-v3.2.apk",
-  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.2.apk",
-  "contentPackUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/content-pack.json",
-  "contentVersion": 4,
-  "note": "v3.2：课程按统一基础/燃油车/纯电车/混动车四条线重组，每条线 L1新手-L4精通分级，首页每条线带进度和“学完能干什么”；新增纯电进阶和混动进阶 2 个模块共 12 节课，每节带图。"
-}
+{"apkName":"qixiu-v3.3.apk","apkUrl":"https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.3.apk","appVersion":"3.3","contentPackUrl":"https://a-spirit-of-noble-integrity.github.io/qixiu/content-pack.json","contentVersion":4,"note":"v3.3：修了课内题答案全是 B 的问题，359 道课内题答案位置已打乱（A/B/C/D 各约 25%），防蒙题；“刹车片和刹车盘”重名已改成“刹车片和刹车盘怎么看磨损”。"}
