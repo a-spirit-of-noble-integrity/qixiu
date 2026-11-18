@@ -1,8 +1,8 @@
 {
-  "appVersion": "3.5",
-  "apkName": "qixiu-v3.5.apk",
-  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.5.apk",
+  "appVersion": "3.6",
+  "apkName": "qixiu-v3.6.apk",
+  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.6.apk",
   "contentPackUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/content-pack.json",
   "contentVersion": 4,
-  "note": "v3.5：改名汽修学堂、换新图标，整车3D新增纯电和混动车型，加了问题反馈。"
+  "note": "v3.6：改名汽修通。"
 }
