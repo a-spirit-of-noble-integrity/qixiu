@@ -1,8 +1,8 @@
 {
-  "appVersion": "3.7",
-  "apkName": "qixiu-v3.7.apk",
-  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.7.apk",
+  "appVersion": "3.8",
+  "apkName": "qixiu-v3.8.apk",
+  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.8.apk",
   "contentPackUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/content-pack.json",
-  "contentVersion": 4,
-  "note": "v3.7：换新图标。"
+  "contentVersion": 5,
+  "note": "v3.8：全部课程重写，更好懂。"
 }
