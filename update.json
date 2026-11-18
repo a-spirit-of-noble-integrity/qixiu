@@ -1,1 +1,8 @@
-{"apkName":"qixiu-v2.9.apk","apkUrl":"https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v2.9.apk","appVersion":"2.9","contentPackUrl":"https://a-spirit-of-noble-integrity.github.io/qixiu/content-pack.json","contentVersion":1,"note":"22 个模块、143 节课、视频教学、考证题库"}
+{
+  "appVersion": "3.0",
+  "apkName": "qixiu-v3.0.apk",
+  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.0.apk",
+  "contentPackUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/content-pack.json",
+  "contentVersion": 2,
+  "note": "v3.0：新增小白第一课 / 大师进阶 / 真车实操任务 3 个模块共 18 节课，小白到大佬分级学习；删掉了视频教程功能；下载新版本时显示下载进度。"
+}
