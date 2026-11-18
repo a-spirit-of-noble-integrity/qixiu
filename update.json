@@ -1,1 +1,8 @@
-{"apkName":"qixiu-v3.3.apk","apkUrl":"https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.3.apk","appVersion":"3.3","contentPackUrl":"https://a-spirit-of-noble-integrity.github.io/qixiu/content-pack.json","contentVersion":4,"note":"v3.3：修了课内题答案全是 B 的问题，359 道课内题答案位置已打乱（A/B/C/D 各约 25%），防蒙题；“刹车片和刹车盘”重名已改成“刹车片和刹车盘怎么看磨损”。"}
+{
+  "appVersion": "3.4",
+  "apkName": "qixiu-v3.4.apk",
+  "apkUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/qixiu-v3.4.apk",
+  "contentPackUrl": "https://a-spirit-of-noble-integrity.github.io/qixiu/content-pack.json",
+  "contentVersion": 4,
+  "note": "v3.4：新增隐私政策页和用户协议页（我的 → 设置里可看，首页底部也有链接）；补齐上架要的应用信息（版本号、包名、开发者、更新地址）；权限仍只有联网和安装未知应用两项。"
+}
